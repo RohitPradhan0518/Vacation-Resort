@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 217, 26);
+    background-color: black;
     color:rgb(12, 12, 4);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -21,4 +21,10 @@ a:hover{
 }
 
 
+.navbar{
+        width: 120px;
+        height: 70px;
+        margin: auto;
+        font-size: 18px;
+}
 
